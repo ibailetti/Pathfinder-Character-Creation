@@ -1,0 +1,21 @@
+{
+  "name": "pf-charac-creation",
+  "version": "1.0.0",
+  "description": "This module helps NEW players of the tabletop game Pathfinder to create by creating a characters to play automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pathfinder",
+    "rol",
+    "game",
+    "game"
+  ],
+  "author": "Iván Bailetti - ivanbailetti@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  }
+}
